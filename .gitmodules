@@ -1,0 +1,3 @@
+[submodule "src/app/shared-project"]
+	path = src/app/shared-project
+	url = https://github.com/Nandre-Sai-Teja/shared-project.git
